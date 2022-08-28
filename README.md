@@ -15,3 +15,4 @@ Builds the app for production to the 'build' folder
 If you aren't satisfied with the bild tool and configuration choices, you can 'eject' at any time. This command will remove the single build dependency from your 
 project.
 
+You will have to install React library which is a part of node.js framework to make this project working.
