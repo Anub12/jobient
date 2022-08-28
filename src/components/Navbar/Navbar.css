@@ -1,0 +1,25 @@
+:root{
+    --primary: #333;
+    --secondary: #19e191;
+    --ternary: #aea6a686;
+    --heaven: white;
+}
+
+.nav-bar{
+    background-color: var(--primary);
+    padding: 5px 10px;
+    display: flex;
+}
+
+.nav-bar a{
+    font-size: 1em;
+    padding: 3px 6px;
+    text-decoration: none;
+    color: var(--heaven);
+    border-radius: 0.5em;
+}
+
+.nav-link{
+    color: var(--primary);
+    background-color: var(--ternary);
+}
