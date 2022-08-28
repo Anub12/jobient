@@ -1,6 +1,6 @@
 # Getting started with react app
 
-## Availabel Scripts
+## Available Scripts
 
 'npm start'
 This command runs the app in the development mode.
